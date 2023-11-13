@@ -1,0 +1,14 @@
+.SelectInputLabel {
+  display: flex;
+  flex-direction: column;
+  margin-left: 10px;
+}
+
+.SelectInput {
+  margin-top: 3px;
+  height: 26px;
+}
+
+.SelectOption{
+  font-size: 18px;
+}

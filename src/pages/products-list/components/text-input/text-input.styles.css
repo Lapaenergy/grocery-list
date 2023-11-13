@@ -1,0 +1,4 @@
+.TextInputLabel {
+  display: flex;
+  flex-direction: column;
+}

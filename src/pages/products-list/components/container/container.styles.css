@@ -1,0 +1,7 @@
+.ProductsContainer {
+  min-height: 300vh;
+  margin: 32px 24px;
+  display: flex;
+  flex-direction: column;
+  position: relative;
+}
